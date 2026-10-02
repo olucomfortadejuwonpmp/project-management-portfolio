@@ -44,13 +44,18 @@ The project strengthened my understanding of:
 - Construction documentation
 - Communication within a project team
 
+
 ## Project Photos
 
 ### Site and Construction Progress
 
-Project photographs will be added here to document the construction work and site activities.
+![Foundation and reinforcement works](file_00000000d5fc8243a44de0152cb026b7.jpg)
 
-<!-- Project photographs will be uploaded to the repository and displayed here. -->
+![Hostel construction progress](file_00000000222881f4a771ea7ef496ddfe.jpg)
+
+![Completed AFIT Student Hostel](file_00000000180c8210a8dc945d5bc42227.jpg)
+
+
 
 ## Career Development
 
