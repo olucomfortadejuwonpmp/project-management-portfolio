@@ -68,19 +68,19 @@ It also contributed to my professional progression from architectural and site-b
 
 ### Existing School Environment
 
-Video documentation shows the condition of the school and classrooms before and during the improvement works.
+[View Video – Existing School Condition](VID_20150910_093115.mp4)
 
 ### Consultant Site Meeting
 
-Site footage documents a consultant meeting conducted during the project, demonstrating stakeholder coordination and technical discussions.
+[View Video – Consultant Site Meeting](VID-20260930-WA0016.mp4)
 
 ### Perimeter Fencing and Entrance Gate
 
-Project footage shows the completed perimeter fencing and the school's entrance gate.
+[View Video – Perimeter Fencing and Entrance Gate](VID-20260904-WA0000.mp4)
 
 ### Classroom
 
-Project footage also documents one of the classrooms within the school.
+[View Video – Classroom](VID-20260908-WA0016.mp4)
 
 ## Career Development
 
