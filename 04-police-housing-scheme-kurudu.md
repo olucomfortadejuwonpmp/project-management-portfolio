@@ -5,43 +5,38 @@
 **Period:** June 2021 – April 2022  
 **Role:** Technical Consultant / Architectural Designer  
 **Work Arrangement:** Remote  
-**Project Type:** Residential Development, Healthcare Facility & Infrastructure Planning
+**Project Type:** Residential Development & Healthcare Facility Planning
 
 ---
 
 ## Project Overview
 
-The Police Housing Scheme in Kurudu, Abuja was a residential development project involving development planning, architectural design, land documentation, infrastructure considerations, and construction development.
+The Police Housing Scheme in Kurudu, Abuja was a development project involving residential planning, architectural design, healthcare facility design, land documentation and development coordination.
 
-As a Technical Consultant working remotely, I supported the development process by translating management and development requirements into practical architectural and technical solutions.
+I worked remotely as a Technical Consultant / Architectural Designer, supporting management with architectural and technical requirements throughout the development process.
 
-My involvement included architectural design, development planning, processing of land documentation, technical coordination, and support for project development activities.
+My contribution included architectural design, site planning, development planning, land documentation processing and technical coordination.
 
-One of the major design assignments associated with the development was a proposed Police Hospital, for which I developed architectural drawings and design concepts covering functional spaces, wards, circulation, clinical areas and supporting facilities.
-
-The project also included development of the broader Police Housing Scheme, including site planning, access roads, residential buildings, landscaping, parking and security/access infrastructure.
+A major design assignment within the project was the proposed Police Hospital.
 
 ---
 
 ## My Role
 
-As a **Technical Consultant / Architectural Designer**, I supported the project remotely and worked directly with management on technical and development-related activities.
-
 My responsibilities included:
 
-- Translating management requirements into practical development and architectural solutions
 - Developing and reviewing architectural designs
 - Preparing architectural layouts and floor plans
-- Developing site planning concepts for the housing scheme
-- Supporting planning for proposed healthcare facilities
-- Processing and coordinating land documentation required for development activities
+- Developing site planning concepts
+- Supporting residential development planning
+- Designing the proposed Police Hospital
+- Processing and coordinating land documentation
 - Supporting land identification and development readiness
-- Reviewing site and development requirements
-- Supporting project planning and development sequencing
+- Reviewing project and site requirements
+- Supporting development sequencing
 - Providing technical recommendations to management
-- Communicating technical information and project requirements remotely
-- Reviewing development information and identifying practical project requirements
-- Supporting coordination between development requirements and architectural solutions
+- Communicating technical information remotely
+- Coordinating architectural requirements with broader development objectives
 
 ---
 
@@ -49,75 +44,51 @@ My responsibilities included:
 
 The assignment was carried out remotely.
 
-Working remotely required me to communicate technical information clearly, review project requirements, develop architectural information, and provide recommendations without being permanently stationed at the project site.
+I worked with management to translate project requirements into practical architectural and technical solutions while coordinating information and documentation remotely.
 
-I supported management by translating development objectives into architectural and technical requirements that could be reviewed and acted upon during project development.
+This required clear communication, documentation, technical review and the ability to support project development without being permanently stationed on site.
 
-This experience strengthened my ability to coordinate technical work remotely while maintaining clear documentation, communication and accountability.
+### Remote Delivery & Digital Tools
+
+The following tools and communication platforms supported my remote project delivery:
+
+- **AutoCAD** — architectural drawings, layouts and design development
+- **Microsoft Office** — project documentation and preparation of technical documents
+- **Email** — formal project communication and exchange of project information and documents
+- **WhatsApp** — day-to-day communication and coordination
+- **Zoom** — remote project meetings and discussions
+- **Phone Calls** — direct communication and coordination with management and stakeholders
 
 ---
 
 ## Architectural Design
 
-A major part of my contribution was architectural design and development planning.
-
-The design work included:
+My architectural contribution included:
 
 - Site planning
 - Building layouts
 - Floor plans
 - Functional space planning
 - Circulation planning
-- Access and entrance planning
-- Ward planning
-- Healthcare facility layouts
+- Healthcare facility planning
 - Residential development planning
-- Parking and landscape considerations
-- Security and estate entrance design
+- Estate entrance design
+- Parking and landscaping considerations
+- Security and access planning
 
 ---
 
 ## Proposed Police Hospital
 
-One of the key architectural assignments was the design of a proposed Police Hospital within the development.
+One of the major architectural assignments was the proposed Police Hospital.
 
-The design considered functional healthcare spaces and circulation requirements, including:
+The drawings document the planning and development of the proposed healthcare facility, including different functional areas, patient spaces, circulation and supporting facilities.
 
-- Emergency area
-- Male and female ICU areas
-- Consultation rooms
-- Out-patient functions
-- Wards
-- Nurse-related spaces
-- Operating theatre
-- Radiology
-- Supporting administrative spaces
-- Patient and staff circulation
-- Entrances and access points
-
-The hospital design was developed as part of the broader technical and architectural development work.
+The design also considered circulation, entrances, access and supporting spaces.
 
 ---
 
-## Police Housing Scheme Development
-
-The broader development included residential buildings, access roads, parking areas, landscaping and estate infrastructure.
-
-The site planning work considered:
-
-- Building placement
-- Internal circulation
-- Access roads
-- Parking
-- Landscaping
-- Green areas
-- Estate entrance and security
-- Relationship between buildings and site access
-- Functional organization of the development
-
----
-
-## Land Documentation & Development Readiness
+## Land Documentation
 
 Land documentation was also part of my responsibilities during the assignment.
 
@@ -126,112 +97,102 @@ I was involved in processing and coordinating land-related documentation require
 This included supporting:
 
 - Land documentation processing
-- Documentation required to progress land interests
-- Development readiness activities
-- Coordination of relevant information and documentation
-- Technical considerations related to proposed development sites
-
-I also supported the identification of potential development land and worked with management on requirements needed to progress development opportunities.
+- Development readiness
+- Coordination of relevant documentation
+- Land-related project requirements
+- Identification of potential development opportunities
 
 ---
 
-## Project Development & Construction
+## Police Housing Scheme Development
 
-The project progressed beyond conceptual planning into physical development within the Police Housing Scheme.
+The wider development included residential buildings, access roads, parking areas, landscaping and estate infrastructure.
 
-Available project evidence shows construction activities and developing residential structures within the scheme.
-
-My role should be distinguished from the physical site execution: **I provided remote technical and architectural input, while the construction activities were carried out on site.**
-
-The available photographs document the development environment and construction progress associated with the scheme.
+The site planning considered the relationship between buildings, access roads, parking, landscaped areas and estate circulation.
 
 ---
 
-## Existing and Proposed Estate Entrance
+# Project Evidence
 
-The project included consideration of the estate entrance and security identity.
+## 1. Police Housing Scheme Site Plan
 
-### Existing Condition
+![Police Housing Scheme Site Plan](WA_1791060021980.jpeg)
 
-The existing Police Housing Scheme entrance provided the starting point for the proposed entrance improvement.
-
-### Proposed Design
-
-I developed a proposed architectural concept for the Police Housing Scheme entrance, incorporating:
-
-- Controlled access
-- Security gatehouse
-- Estate identification
-- Police identity
-- Landscaping
-- Vehicular access
-- Improved entrance presentation
+The site plan illustrates the proposed arrangement of buildings, access roads, parking, landscaping and other site components.
 
 ---
 
-## Project Evidence
+## 2. Hospital Architectural Floor Plan
 
-### 1. Police Housing Scheme Site Plan
+![Police Hospital Floor Plan](Screenshot_20261003_213911_Gmail.jpg)
 
-![Police Housing Scheme Site Plan](police-housing-site-plan.jpg)
-
-The site plan illustrates the proposed organization of buildings, access roads, parking, landscaping and other development components within the scheme.
+Architectural floor-plan documentation developed for the proposed healthcare facility.
 
 ---
 
-### 2. Residential Construction Progress
+## 3. General Ward Plan
 
-![Police Housing Scheme Construction](police-housing-construction.jpg)
+![General Ward Plan](Screenshot_20261003_213905_Gmail.jpg)
 
-Construction photographs document physical development taking place within the Police Housing Scheme.
-
----
-
-### 3. Proposed Police Hospital Design
-
-![Proposed Police Hospital](proposed-police-hospital.jpg)
-
-Architectural visualization showing the proposed Police Hospital design.
+Architectural planning documentation showing the general ward arrangement and supporting spaces.
 
 ---
 
-### 4. Police Hospital Floor Plan
+## 4. Private Ward Plan
 
-![Police Hospital Floor Plan](police-hospital-floor-plan.jpg)
+![Private Ward Plan](Screenshot_20261003_213917_Gmail.jpg)
 
-Architectural floor plan showing functional healthcare spaces and internal circulation.
-
----
-
-### 5. Ward / Healthcare Layout
-
-![Healthcare Ward Layout](healthcare-ward-layout.jpg)
-
-Architectural planning information showing ward and supporting healthcare spaces.
+Architectural planning documentation showing the arrangement of private wards and associated facilities.
 
 ---
 
-### 6. Existing Police Housing Scheme Entrance
+## 5. Proposed Police Hospital – Exterior
 
-![Existing Police Housing Scheme Entrance](existing-police-estate-gate.jpg)
+![Proposed Police Hospital Exterior](WA_1791060050515.jpeg)
 
-Photograph documenting the existing estate entrance before the proposed entrance design.
-
----
-
-### 7. Proposed Police Housing Scheme Entrance
-
-![Proposed Police Housing Scheme Entrance](proposed-police-estate-gate.jpg)
-
-Proposed architectural visualization for the Police Housing Scheme entrance.
+Architectural visualization of the proposed Police Hospital.
 
 ---
 
-### 8. Construction Development
+## 6. Police Housing Scheme – Construction Progress
 
-![Police Housing Scheme Development](police-housing-development.jpg)
+![Police Housing Scheme Construction](Screenshot_20261003_213922_Gmail.jpg)
 
-Aerial/project photograph documenting construction and development within the housing scheme.
+Aerial photograph documenting construction and development within the housing scheme.
+
+---
+
+## 7. Police Housing Scheme – Additional Construction Progress
+
+![Police Housing Scheme Construction Progress](WA_1791060035560.jpeg)
+
+Aerial photograph showing residential buildings and construction progress within the housing scheme.
+
+---
+
+## 8. Existing Police Housing Scheme Entrance
+
+![Existing Police Housing Scheme Entrance](file_000000008f748210ba2d14e097de2f05.jpg)
+
+Photograph documenting the existing entrance to the Police Housing Scheme.
+
+---
+
+## 9. Proposed Police Housing Scheme Entrance
+
+![Proposed Police Housing Scheme Entrance](file_00000000ece882108f83c175e8134b6e.jpg)
+
+Proposed architectural concept for the Police Housing Scheme entrance, incorporating controlled access, security, estate identification and landscaping.
+
+---
+
+## Construction Evidence
+
+The project progressed from planning and design into physical development.
+
+The available photographs show residential construction activities and developing structures within the scheme.
+
+My role should be distinguished from physical site execution. I provided remote architectural and technical input, while physical construction activities were undertaken on site.
 
 ---
 
@@ -260,9 +221,9 @@ Aerial/project photograph documenting construction and development within the ho
 
 This project represents an important stage in my progression from architectural and technical responsibilities into broader project management and development coordination.
 
-It combined architectural design, development planning, land documentation, technical consulting and construction-related coordination.
+It combined architectural design, development planning, land documentation, technical consulting and construction-related project awareness.
 
-The experience strengthened my ability to understand projects from both the technical and management perspectives and to translate development objectives into practical project requirements.
+The experience strengthened my ability to understand development projects from both technical and management perspectives.
 
 ---
 
@@ -270,21 +231,21 @@ The experience strengthened my ability to understand projects from both the tech
 
 | Item | Details |
 |---|---|
-| Project | Police Housing Scheme, Kurudu |
-| Location | Kurudu, Abuja, Nigeria |
-| Organization | De-Dons Housing Scheme |
-| Period | June 2021 – April 2022 |
-| Role | Technical Consultant / Architectural Designer |
-| Work Arrangement | Remote |
-| Project Type | Residential Development & Healthcare Facility |
-| Major Design Assignment | Proposed Police Hospital |
-| Additional Responsibility | Land Documentation Processing |
-| Key Areas | Architectural Design, Site Planning, Development Planning, Technical Coordination |
+| **Project** | Police Housing Scheme, Kurudu |
+| **Location** | Kurudu, Abuja, Nigeria |
+| **Organization** | De-Dons Housing Scheme |
+| **Period** | June 2021 – April 2022 |
+| **Role** | Technical Consultant / Architectural Designer |
+| **Work Arrangement** | Remote |
+| **Project Type** | Residential Development & Healthcare Facility |
+| **Major Design Assignment** | Proposed Police Hospital |
+| **Additional Responsibility** | Land Documentation Processing |
+| **Key Areas** | Architectural Design, Site Planning, Development Planning, Technical Coordination |
 
 ---
 
-## Note on Project Evidence
+## Project Evidence Note
 
-The images presented in this case study document architectural design work, proposed development concepts and physical development within the Police Housing Scheme.
+The images on this page document architectural design work, proposed development concepts and physical development associated with the Police Housing Scheme.
 
-The project page distinguishes between my remote technical/design contribution and physical construction activities carried out on site.
+They are presented to demonstrate my technical contribution and project experience while distinguishing my remote design and consulting responsibilities from physical construction execution.
