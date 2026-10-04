@@ -22,7 +22,7 @@ The project values I managed or supported were **₦50 million+ (approximately U
 
 ## Tools & Platforms Used
 
-I used a combination of project-management, communication, technical and productivity tools to support my work at Diamond City Group.
+During my time at Diamond City Group, I used digital tools to support project coordination, communication, documentation, technical work and day-to-day project activities.
 
 ### Project Management & Workflow
 
@@ -127,45 +127,51 @@ I also contributed to the development and review of architectural designs for di
 
 # Diamond City Project Evidence
 
-## Add Diamond City architectural 3D project visuals
+## 3D Architectural Project Visuals
 
-![Diamond City Architectural 3D Project](04bb54a0-2e38-4ba4-b054-b430bcec9423_20261004_003352_0000.png)
+![](04bb54a0-2e38-4ba4-b054-b430bcec9423_20261004_003352_0000.png)
 
-![Diamond City Architectural 3D Project](16684c19-2a47-43a0-962d-b5bf58106bfc_20261004_001541_0000.png)
+![](16684c19-2a47-43a0-962d-b5bf58106bfc_20261004_001541_0000.png)
 
-![Diamond City Architectural 3D Project](1c23cac9-4345-4d34-855d-be9a4141dd12_20261004_003602_0000.png)
+![](1c23cac9-4345-4d34-855d-be9a4141dd12_20261004_003602_0000.png)
 
-![Diamond City Architectural 3D Project](4191b587-9ca1-4508-b7b7-5514b214b4ad_20261004_002502_0000.png)
+![](4191b587-9ca1-4508-b7b7-5514b214b4ad_20261004_002502_0000.png)
 
-![Diamond City Architectural 3D Project](4602f504-325d-4377-9a90-710a69ebe4dd_20261004_003848_0000.png)
+![](4602f504-325d-4377-9a90-710a69ebe4dd_20261004_003848_0000.png)
 
-![Diamond City Architectural 3D Project](73f0ef7d-9953-4bf5-8dbe-02bc47b23ebe_20261004_002956_0000.png)
+![](73f0ef7d-9953-4bf5-8dbe-02bc47b23ebe_20261004_002956_0000.png)
 
-![Diamond City Architectural 3D Project](7d5f4812-99e0-4dca-b03d-0fa024f5a8b0_20261004_002105_0000.png)
+![](7d5f4812-99e0-4dca-b03d-0fa024f5a8b0_20261004_002105_0000.png)
 
-![Diamond City Architectural 3D Project](ce24180b-a8d0-44eb-8112-bfb3f880ce88_20261004_003156_0000.png)
+![](ce24180b-a8d0-44eb-8112-bfb3f880ce88_20261004_003156_0000.png)
 
-![Diamond City Architectural 3D Project](e82b3e3c-a0fc-41a0-94a0-b5b9e7c5d1e9_20261004_002709_0000.png)
+![](e82b3e3c-a0fc-41a0-94a0-b5b9e7c5d1e9_20261004_002709_0000.png)
 
-![Diamond City Architectural 3D Project](ee5ee2f7-2680-44c4-9400-a78e1ed27650_20261004_000845_0000.png)
-
----
-
-## Add Diamond City site inspection photo 1
-
-![Diamond City Site Inspection Photo 1](IMG-20261003-WA0001.jpg)
+![](ee5ee2f7-2680-44c4-9400-a78e1ed27650_20261004_000845_0000.png)
 
 ---
 
-## Add Diamond City project videos
+## Site Project Evidence
 
-[View Diamond City Project Video](VID-20261004-WA0001.mp4)
+![](IMG-20261003-WA0030.jpg)
 
 ---
 
-## Add Diamond City advertisements and project representation
+## Project Videos
 
-<!-- Advertisement and project-representation images/videos will be added here as they are uploaded. -->
+[Watch Diamond City Project Video 1](VID-20251018-WA0001.mp4)
+
+[Watch Diamond City Project Video 2](VID-20261004-WA0001.mp4)
+
+[Watch Diamond City Project Video 3](VID-20261004-WA0002.mp4)
+
+[Watch Diamond City Project Video 4](VID-20261004-WA0012.mp4)
+
+---
+
+## Project Representation
+
+<!-- Additional Diamond City advertisement and project-representation evidence can be added here. -->
 
 ---
 
@@ -301,4 +307,32 @@ This is where my architectural background and project-management training worked
 | Estate projects | **50+** |
 | Estates coordinated | **Approximately 32** |
 | Site activities coordinated | **Approximately 60%** within assigned PM responsibilities |
-| Role progression | **Technical Consultant → Architect /
+| Role progression | **Technical Consultant → Architect / Project Manager** |
+| Procurement | Market research, supplier comparison and cost challenge |
+| Project resources | Savings redirected toward additional estate works |
+| Handover | Structured inventory and handover process |
+| Quality | Specification and supplied-product checks |
+| Planning | Estate planning and land-use improvement |
+
+---
+
+## What This Experience Built
+
+Diamond City strengthened my ability to work across the full connection between **technical requirements and project delivery**.
+
+It developed my experience in:
+
+- Project coordination
+- Construction monitoring
+- Procurement and cost awareness
+- Contractor coordination
+- Stakeholder management
+- Architectural and technical review
+- Estate development
+- Quality control
+- Project reporting
+- Handover and documentation
+- Problem solving
+- Working under changing market conditions
+
+Most importantly, it helped me progress from being primarily involved in **technical and architectural work** into taking greater ownership of **project management and delivery**.
