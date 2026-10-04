@@ -71,14 +71,18 @@ This portfolio presents selected professional experience, project case studies, 
 ### Tirmana Consult Ltd
 
 **Project Manager | Freelance / Project-Based**  
-**2014 – Present**
+**2014 – Present**  
+**Location:** Abuja, Nigeria
 
-Project-based experience across construction and residential projects, including project planning, coordination, technical work, construction supervision, and project delivery.
+Tirmana Consult Ltd represents an important foundation of my professional career, where I developed practical experience across architectural work, construction, site activities, technical coordination and project delivery.
 
-#### Selected Projects
+Over time, my responsibilities progressed from technical and site-based work into project planning, stakeholder coordination, problem-solving and project management.
 
-- [Nigeria Air Force / AFIT Student Hostel Project](01-project-management-experience.md)
-- [Koko Boys Secondary School](02-koko-boys-secondary-school.md)
+**[→ View Tirmana Project Experience](06-tirmana-consult-project-experience.md)**
+
+
+
+
   
 
 ---
