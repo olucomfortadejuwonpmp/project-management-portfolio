@@ -39,55 +39,30 @@ I am also developing my capabilities in AI and digital project management tools,
 ## Tools & Technologies
 
 ### Project Management
+
 - Primavera P6
 - ClickUp
 
 ### Design & Technical
+
 - AutoCAD
 
 ### Productivity
+
 - Microsoft Office
 - Google Workspace
 
 ### AI & Digital Tools
+
 - ChatGPT
 - Generative AI Tools
 - AI-assisted Project Management Workflows
 
 ---
 
-## Project Portfolio
+# Project Portfolio
 
-This portfolio will showcase selected project experience, practical project-management workflows, and professional work across construction and the built environment.
-
-### Construction & Residential Projects
-
-Selected experience involving project planning, design coordination, construction supervision, technical documentation, stakeholder coordination, and project delivery.
-
-### Project Planning & Scheduling
-
-Examples of project planning and scheduling work using:
-
-- Primavera P6
-- Work Breakdown Structures
-- Project schedules
-- Project milestones
-- Progress monitoring
-- Resource planning
-
-### Project Management Case Studies
-
-Selected case studies will document:
-
-- Project objectives
-- My role and responsibilities
-- Project scope
-- Planning approach
-- Key challenges
-- Actions taken
-- Tools used
-- Deliverables
-- Lessons learned
+This portfolio presents selected professional experience, project case studies, technical work, project-management activities, and supporting project evidence across construction, infrastructure, residential development, and real estate.
 
 ---
 
@@ -100,12 +75,39 @@ Selected case studies will document:
 
 Project-based experience across construction and residential projects, including project planning, coordination, technical work, construction supervision, and project delivery.
 
+#### Selected Projects
+
+- [Nigeria Air Force / AFIT Student Hostel Project](01-project-management-experience.md)
+- [Koko Boys Secondary School](02-koko-boys-secondary-school.md)
+- Force Base Project
+- Outfit Project
+
+---
+
 ### Diamond City Group Ltd
 
 **Architect / Project Manager / Technical Consultant**  
-**2022 – 2025**
+**june 2022 – january 2025**
 
-Experience supporting project planning, technical coordination, construction activities, and project delivery.
+Experience supporting project planning, technical coordination, construction activities, architectural design, site inspections, drawing reviews, procurement, stakeholder coordination, and project delivery.
+
+#### Project Experience
+
+[View Diamond City Group Project Experience →](05-diamond-city-group-project-experience.md)
+
+The Diamond City project experience page includes selected:
+
+- Site inspection activities
+- Construction monitoring
+- Drawing reviews
+- Architectural design work
+- 3D design proposals
+- Estate development activities
+- Project coordination
+- Project documentation
+- Project videos and visual evidence
+
+---
 
 ### De-Dons Housing Scheme
 
@@ -114,12 +116,75 @@ Experience supporting project planning, technical coordination, construction act
 
 Provided technical support and coordination for housing-related projects.
 
+#### Project Experience
+
+[View Police Housing Scheme, Kurudu →](04-police-housing-scheme-kurudu.md)
+
+---
+
 ### Construmax Construction Ltd
 
 **Construction / Project Experience**  
 **2020 – 2021**
 
 Experience within the construction environment, supporting project activities and site operations.
+
+#### Project Experience
+
+[View Construmax Construction Project →](03-construmax-construction-project.md)
+
+---
+
+# Project Management Experience
+
+My professional experience covers different stages of the project lifecycle, including:
+
+- Project planning
+- Project coordination
+- Construction supervision
+- Site inspection
+- Design coordination
+- Architectural drawing review
+- Project scheduling
+- Procurement support
+- Cost management
+- Contractor coordination
+- Stakeholder management
+- Project documentation
+- Progress monitoring
+- Quality control
+- Risk identification
+- Project handover
+
+---
+
+## Project Planning & Scheduling
+
+Examples of project planning and scheduling work using:
+
+- Primavera P6
+- Work Breakdown Structures
+- Project schedules
+- Project milestones
+- Progress monitoring
+- Resource planning
+
+---
+
+## Project Management Case Studies
+
+Selected case studies document:
+
+- Project objectives
+- My role and responsibilities
+- Project scope
+- Planning approach
+- Key challenges
+- Actions taken
+- Tools used
+- Deliverables
+- Lessons learned
+- Supporting project evidence
 
 ---
 
@@ -137,7 +202,7 @@ Experience within the construction environment, supporting project activities an
 
 ## Currently Developing
 
-I am continuing to develop my professional portfolio in:
+I am continuing to develop my professional capabilities in:
 
 - Project Management
 - Construction & Infrastructure
@@ -160,4 +225,4 @@ https://www.linkedin.com/in/olu-comfort-pmp%C2%AE-519a36178
 
 ## Portfolio Note
 
-This repository documents selected professional experience, project-management workflows, project case studies, tools, and continuing professional development.
+This repository documents selected professional experience, project-management activities, project case studies, technical work, project evidence, tools, and continuing professional development.
