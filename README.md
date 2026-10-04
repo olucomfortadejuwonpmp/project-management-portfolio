@@ -79,8 +79,7 @@ Project-based experience across construction and residential projects, including
 
 - [Nigeria Air Force / AFIT Student Hostel Project](01-project-management-experience.md)
 - [Koko Boys Secondary School](02-koko-boys-secondary-school.md)
-- Force Base Project
-- Outfit Project
+  
 
 ---
 
