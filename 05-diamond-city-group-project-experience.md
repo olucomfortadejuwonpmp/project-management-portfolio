@@ -171,11 +171,11 @@ I also contributed to the development and review of architectural designs for di
 [Watch Diamond City Project Video 4](VID-20261004-WA0012.mp4)
 
 ---
-
 ## Project Representation
 
-c63310c7-2eb6-4aae-bf47-8497f306...
-fe92cf59-b63d-4f19-9d50-706f2115...
+![](c63310c7-2eb6-4aae-bf47-8497f3062ca8_20261004_033503_0000.png)
+
+![](fe92cf59-b63d-4f19-9d50-706f21151e77_20261004_033357_0000.png)
 
 ---
 
