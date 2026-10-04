@@ -174,7 +174,8 @@ I also contributed to the development and review of architectural designs for di
 
 ## Project Representation
 
-<!-- Additional Diamond City advertisement and project-representation evidence can be added here. -->
+c63310c7-2eb6-4aae-bf47-8497f306...
+fe92cf59-b63d-4f19-9d50-706f2115...
 
 ---
 
