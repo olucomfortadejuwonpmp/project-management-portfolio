@@ -1,7 +1,7 @@
 # Tirmana Consult Ltd — Project Experience
 
 **Location:** Abuja, Nigeria  
-**Period:** 2014 – Present  
+**Period:** october 2014 – Present  
 **Role:** Project Manager | Freelance / Project-Based
 
 ## Where My Project Management Journey Began
@@ -29,7 +29,7 @@ Depending on the project, I worked with and coordinated:
 - Technical personnel
 - Other project stakeholders
 
-This experience taught me that successful project delivery is not only about drawings or construction activities. It also depends on communication, coordination, follow-up, problem-solving and making sure different people understand what needs to happen next.
+Working across these different roles taught me how to communicate technical requirements, coordinate activities, follow up on outstanding work, resolve issues and keep different people aligned toward the same project objectives.
 
 ## What I Did
 
@@ -54,11 +54,21 @@ My responsibilities across Tirmana projects included:
 
 Through Tirmana, I gained exposure to residential, construction, renovation and technical projects at different stages of delivery.
 
-My experience included supporting **10 projects across design, planning and site supervision**, while taking responsibility for approximately **50% of architectural design work** alongside project and technical coordination. 2
+I supported project delivery across **10 projects** involving design, planning and site supervision, while taking responsibility for approximately **50% of architectural design work** alongside project and technical coordination.
 
-I also gained experience working within multidisciplinary project environments and coordinating people with different responsibilities toward the same project objective.
+This experience allowed me to develop practical understanding of project planning, construction coordination, stakeholder management, risk identification, change management and project delivery.
+
+## My Progression
+
+My responsibilities developed progressively over time.
+
+I moved from hands-on technical and site responsibilities into taking greater ownership of planning, stakeholder communication, issue resolution, site coordination and project-delivery activities.
+
+This progression became an important part of my transition into project management.
 
 ## Selected Project Experience
+
+The projects below represent selected examples of my experience with Tirmana Consult Ltd.
 
 ### Nigeria Air Force / AFIT Student Hostel
 
@@ -80,12 +90,16 @@ A renovation project that expanded my experience in construction coordination, t
 
 My Tirmana experience also included additional residential, construction, architectural and technical assignments.
 
-As this portfolio develops, I will document more of these projects and the specific responsibilities, challenges and outcomes involved.
+These projects gave me exposure to different project environments, stakeholders, construction activities and delivery challenges.
 
-## How Tirmana Shaped My Project Management Career
+Additional projects will be documented in this portfolio as the supporting project information and evidence are organized.
+
+## What Tirmana Built in Me
 
 Tirmana gave me the opportunity to experience project delivery from the practical side.
 
 I learned how drawings become physical work, how contractors and artisans execute activities, how consultants and technical professionals contribute to decisions, how client requirements can change, and how project issues need to be identified and addressed before they become bigger problems.
 
-Most importantly, it helped me progress from **technical and site responsibilities into project management**, gradually taking greater ownership of planning, coordination, stakeholder communication, issue resolution and project delivery. 3
+Most importantly, it helped me progress from technical and site responsibilities into project management, gradually taking greater ownership of planning, coordination, stakeholder communication, issue resolution and project delivery.
+
+Tirmana remains an important part of my professional journey because it gave me the practical foundation on which I continued to build my career in construction and project management.
