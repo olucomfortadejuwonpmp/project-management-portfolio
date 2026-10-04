@@ -153,7 +153,10 @@ I also contributed to the development and review of architectural designs for di
 
 ## Site Project Evidence
 
+![](IMG-20261003-WA0001.jpg)
+
 ![](IMG-20261003-WA0030.jpg)
+
 
 ---
 
