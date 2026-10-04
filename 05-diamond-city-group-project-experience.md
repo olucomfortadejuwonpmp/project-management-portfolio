@@ -1,243 +1,304 @@
-# Diamond City Group Limited — Project Experience
+# Diamond City Group Ltd — Project Experience
 
-**Organization:** Diamond City Group Limited  
 **Location:** Abuja, Nigeria  
-**Period:** 2022–2025  
+**Period:** June 2022 – January 2025  
 **Role:** Project Manager / Architect / Technical Consultant
 
 ---
 
-## Overview
+## My Role and Progression
 
-During my time with Diamond City Group Limited, I worked across residential estate projects, supporting project management, architectural design, technical coordination, construction activities, site inspections, drawing reviews, procurement, and project delivery.
+My experience at Diamond City Group developed progressively from **Technical Consultant** into responsibilities covering **Project Management, Architecture, Technical Coordination, Procurement and Estate Development**.
 
-I was involved in approximately 32 estates and contributed to more than 50 estate projects.
+I worked across residential development projects, coordinating technical requirements, site activities, contractors, consultants, vendors, clients and management.
 
-My responsibilities included coordinating project activities, reviewing drawings, visiting project sites, monitoring construction progress, working with contractors and consultants, supporting procurement, resolving project issues, and supporting project delivery.
+During this period, I contributed to projects across approximately **32 estates** and more than **50 estate projects**.
 
----
+The project values I managed or supported were **₦50 million+ (approximately US$33,000+ equivalent)**.
 
-# Site Expansion One
-
-Site Expansion One documents selected site activities and construction progress observed during my work with Diamond City Group Limited.
-
-The site work involved visiting the project location, checking construction activities, reviewing progress, and identifying issues requiring attention.
-
-### Site Activities
-
-- Site inspection
-- Construction progress monitoring
-- Review of ongoing works
-- Checking completed and outstanding activities
-- Identification of site issues
-- Follow-up with relevant project team members
-
-### Site Videos
-
-The site videos provide visual evidence of the project site and construction activities.
+> *USD equivalent is presented as an approximate reference because exchange rates vary.*
 
 ---
 
-# Site Inspection
+## Tools & Platforms Used
 
-Site inspections formed part of my project responsibilities at Diamond City Group Limited.
+I used a combination of project-management, communication, technical and productivity tools to support my work at Diamond City Group.
 
-During site visits, I checked what was being constructed and reviewed the progress of the work on the ground.
+### Project Management & Workflow
 
-Areas reviewed included:
+- **ClickUp** — task management, workflow visibility, follow-up and coordination of project activities.
 
-- Building construction
-- Drainage works
-- Site development
-- Construction progress
-- Completed works
-- Outstanding works
-- Site conditions
-- Issues requiring attention
+### Communication & Collaboration
 
----
+- **Google Workspace** — project documentation, file management and collaborative work.
+- **Google Chat** — day-to-day team communication and coordination.
+- **Microsoft Teams** — meetings, communication and collaboration with project stakeholders.
 
-# Architectural Drawing Review
+### Technical & Project Tools
 
-One of my responsibilities was reviewing architectural drawings and checking whether the construction work corresponded with the drawings.
+- **AutoCAD** — architectural drawings and technical documentation.
+- **Microsoft Office** — project documentation, reports, presentations and project administration.
+- **Primavera P6** — project planning and scheduling.
 
-During site visits, I compared the drawings with what was being built on the ground.
+### AI & Digital Tools
 
-Where differences or issues were identified, I discussed them with the relevant project team members and helped clarify the required work.
-
-This provided practical experience in connecting architectural design with construction execution.
+- **ChatGPT / AI Tools** — research, documentation, analysis and support for project-management activities.
 
 ---
 
-# Architectural Drawings & 3D Designs
+## Project Management & Delivery
 
-As part of my role as an Architect / Project Manager / Technical Consultant, I worked on architectural design and 3D design proposals for Diamond City projects.
+As my responsibilities expanded into project management, I became involved in coordinating project activities from planning through execution.
 
-## Proposed 3-Bedroom Semi-Detached Duplex with BQ
+My responsibilities included:
 
-**PROPOSED**  
-**3-BEDROOM SEMI-DETACHED DUPLEX WITH BQ**  
-**Diamond City, Vintage Estate, Lugbe, Abuja**  
-**Plot Size: 300 sqm**
+- Coordinating project activities and outstanding works.
+- Monitoring progress against project requirements.
+- Following up with contractors and technical teams.
+- Connecting site progress with project reporting.
+- Coordinating clients, consultants, engineers, contractors and vendors.
+- Identifying issues affecting project delivery and following up on corrective actions.
+- Supporting decisions relating to project scope, execution and resources.
+- Coordinating approximately **60% of site activities** within my assigned project-management responsibilities.
 
----
-
-## Proposed 3D Gatehouse — Diamond City New Castle
-
-**PROPOSED 3D GATEHOUSE**  
-**Diamond City New Castle, Idu, Abuja**
-
----
-
-## Proposed Diamond City Mall
-
-**PROPOSED DIAMOND CITY MALL**  
-**Lugbe, Abuja**
+My focus was not only on completing individual tasks, but on understanding how different project activities affected one another.
 
 ---
 
-## Proposed 3-Bedroom Semi-Detached Duplex
+## Procurement & Cost Management
 
-**PROPOSED**  
-**3-BEDROOM SEMI-DETACHED DUPLEX**  
-**Diamond City New Castle, Idu, Abuja, Nigeria**  
-**Land Size: 200 sqm**
+One of my responsibilities involved supporting procurement and making sure project resources were used appropriately.
 
----
+I challenged unverified cost estimates rather than accepting them without checking.
 
-## Proposed 4-Bedroom Duplex with Attached BQ
+My approach included:
 
-**PROPOSED**  
-**4-BEDROOM DUPLEX WITH ATTACHED BQ**  
-**Diamond City Royale, Lugbe, Abuja, Nigeria**  
-**Land Size: 500 sqm**
+- Conducting independent market research.
+- Comparing alternative suppliers.
+- Reviewing proposed costs before procurement decisions.
+- Questioning differences between quoted and researched prices.
+- Identifying opportunities to reduce unnecessary expenditure.
+- Looking for ways to use available project resources more effectively.
 
----
+Where savings or remaining resources were identified, I supported their redirection toward additional estate works, including **gatehouse construction and other outstanding activities**.
 
-## Proposed 3D Gatehouse — Diamond City Bold Touch Estate
-
-**PROPOSED 3D GATEHOUSE**  
-**Diamond City Bold Touch Estate, Lugbe, Abuja**
+This gave me practical exposure to the relationship between **procurement, cost, scope and project delivery**.
 
 ---
 
-## Proposed 3-Bedroom Penthouse
+## Residential Development & Estate Planning
 
-**PROPOSED 3-BEDROOM PENTHOUSE**  
-**Diamond City AEPB Housing Projects, Nigeria**  
-**Land Size: 350 sqm**
+Diamond City exposed me to estate-level project coordination rather than working on only one building at a time.
 
----
+I contributed to development activities across approximately **32 estates** and **50+ estate projects**.
 
-## Proposed 5-Bedroom Fully Detached Duplex
+I worked with different residential products and considered:
 
-**PROPOSED 5-BEDROOM FULLY DETACHED DUPLEX**  
-**Diamond City AEPB Housing Projects, Nigeria**  
-**Land Size: 500 sqm**
+- House types
+- Plot sizes
+- Construction requirements
+- Development efficiency
+- Customer purchasing capacity
+- Estate planning
+- Infrastructure requirements
+- Market expectations
 
----
-
-## Proposed 2-Bedroom Blocks of Flat
-
-**PROPOSED 2-BEDROOM BLOCKS OF FLAT**  
-**Diamond City AEPB Housing Projects, Nigeria**  
-**Land Size: 1000 sqm**
+I also identified land-use inefficiencies, including wasted development areas and limited provision for green spaces, and proposed planning improvements.
 
 ---
 
-## Proposed 1-Bedroom Blocks of Flat
+## Design & Construction Coordination
 
-**PROPOSED 1-BEDROOM BLOCKS OF FLAT**  
-**Diamond City AEPB Housing Projects, Nigeria**  
-**Land Size: 750 sqm**
+My architectural background became an important part of my project-management responsibilities.
+
+I reviewed drawings and technical information and compared them with what was being implemented on site.
+
+This helped me identify:
+
+- Design inconsistencies
+- Construction discrepancies
+- Specification issues
+- Practical execution challenges
+- Opportunities for design improvement
+
+I also contributed to the development and review of architectural designs for different residential developments.
 
 ---
 
-# Project Coordination
+# Diamond City Project Evidence
 
-My work involved coordinating with different people involved in project delivery, including:
+## Add Diamond City architectural 3D project visuals
 
-- Contractors
+![Diamond City Architectural 3D Project](04bb54a0-2e38-4ba4-b054-b430bcec9423_20261004_003352_0000.png)
+
+![Diamond City Architectural 3D Project](16684c19-2a47-43a0-962d-b5bf58106bfc_20261004_001541_0000.png)
+
+![Diamond City Architectural 3D Project](1c23cac9-4345-4d34-855d-be9a4141dd12_20261004_003602_0000.png)
+
+![Diamond City Architectural 3D Project](4191b587-9ca1-4508-b7b7-5514b214b4ad_20261004_002502_0000.png)
+
+![Diamond City Architectural 3D Project](4602f504-325d-4377-9a90-710a69ebe4dd_20261004_003848_0000.png)
+
+![Diamond City Architectural 3D Project](73f0ef7d-9953-4bf5-8dbe-02bc47b23ebe_20261004_002956_0000.png)
+
+![Diamond City Architectural 3D Project](7d5f4812-99e0-4dca-b03d-0fa024f5a8b0_20261004_002105_0000.png)
+
+![Diamond City Architectural 3D Project](ce24180b-a8d0-44eb-8112-bfb3f880ce88_20261004_003156_0000.png)
+
+![Diamond City Architectural 3D Project](e82b3e3c-a0fc-41a0-94a0-b5b9e7c5d1e9_20261004_002709_0000.png)
+
+![Diamond City Architectural 3D Project](ee5ee2f7-2680-44c4-9400-a78e1ed27650_20261004_000845_0000.png)
+
+---
+
+## Add Diamond City site inspection photo 1
+
+![Diamond City Site Inspection Photo 1](IMG-20261003-WA0001.jpg)
+
+---
+
+## Add Diamond City project videos
+
+[View Diamond City Project Video](VID-20261004-WA0001.mp4)
+
+---
+
+## Add Diamond City advertisements and project representation
+
+<!-- Advertisement and project-representation images/videos will be added here as they are uploaded. -->
+
+---
+
+## Contractor, Consultant & Stakeholder Coordination
+
+I worked with different parties involved in project delivery, including:
+
+- Clients
 - Consultants
 - Engineers
+- Contractors
 - Vendors
-- Clients
+- Technical personnel
 - Management
-- Site teams
 
-I followed up on project activities, discussed site issues, and helped coordinate actions required to keep projects moving.
+A major part of my role was making sure that technical requirements and project expectations were clearly understood.
 
----
-
-# Procurement & Cost Support
-
-I supported procurement activities through market research and supplier comparisons.
-
-I also checked supplied products against project specifications and raised concerns where supplied products or substitutions did not correspond with the required requirements.
-
-Where savings were identified, resources could be redirected to additional estate works.
+When problems occurred, I worked through the issue with the relevant parties rather than treating it as an isolated technical problem.
 
 ---
 
-# Project Reporting & Documentation
+## Quality & Specification Control
 
-My responsibilities also included project reporting, documentation, follow-up of site activities, and coordination of information required for project delivery.
+I checked supplied products and materials against required specifications.
 
-I also supported improvements to reporting and workflow processes.
+Where contractor or vendor substitutions did not meet project requirements, I raised the issue and requested clarification or correction.
 
----
+This helped reduce the risk of:
 
-# Project Handover & Inventory
-
-I supported the organization of project inventory and handover information to improve the tracking of project items and completed works.
-
----
-
-# Project & Marketing Representation
-
-I also participated in the visual presentation and representation of Diamond City projects through architectural designs, project visuals, estate information, and marketing materials.
-
-These materials provide supporting visual evidence of the projects and developments associated with my work.
+- Incorrect materials being accepted
+- Specification discrepancies
+- Rework
+- Poor-quality project outputs
+- Misalignment between approved requirements and site execution
 
 ---
 
-# Project Evidence
+## Project Handover & Accountability
 
-This portfolio section contains selected evidence from my Diamond City experience, including:
+I introduced a more structured approach to project handover and inventory.
 
-- Site Expansion One
-- Site inspection photographs
-- Site videos
-- Architectural drawing reviews
-- Construction photographs
-- Architectural 3D designs
-- Estate development visuals
-- Project and marketing materials
+The process helped create clearer records of:
 
----
+- Completed works
+- Project items
+- Outstanding responsibilities
+- Materials and equipment
+- Handover information
 
-# Skills Demonstrated
-
-- Project Management
-- Construction Monitoring
-- Site Inspection
-- Architectural Design
-- Architectural Drawing Review
-- Technical Coordination
-- Contractor Coordination
-- Stakeholder Management
-- Procurement Support
-- Cost Awareness
-- Project Reporting
-- Quality Control
-- Problem Solving
-- Residential Estate Development
-- Project Documentation
+This improved accountability when responsibilities moved from one stage or person to another.
 
 ---
 
-## Career Development
+## Workflow Improvement
 
-My experience at Diamond City Group contributed to my progression from architectural and technical responsibilities into broader project management responsibilities.
+I also identified approval processes that created unnecessary waiting between project stages.
 
-The role allowed me to combine my built-environment background with practical experience in project coordination, construction monitoring, stakeholder management, procurement support, technical review, and project delivery.
+Where possible, I proposed more streamlined approaches to reduce avoidable delays.
+
+This was part of my broader approach to project management:
+
+**Identify the problem → understand the cause → propose a practical solution → coordinate implementation.**
+
+---
+
+## Working During Inflationary Pressure
+
+Project delivery took place during a period of significant changes in construction costs.
+
+I therefore had to consider changing prices when supporting procurement and execution decisions.
+
+Rather than treating the original approach as fixed, I supported the team by:
+
+- Reassessing procurement options.
+- Comparing available alternatives.
+- Reviewing execution approaches.
+- Looking for practical ways to maintain progress.
+- Considering how changing costs affected project decisions.
+
+This gave me practical experience in managing project decisions under changing economic conditions.
+
+---
+
+## Site Safety
+
+I identified gaps in basic site-safety requirements, including the use of appropriate protective equipment such as reflective jackets.
+
+I advocated clearer expectations for site conduct and basic safety practices.
+
+---
+
+## A Practical Example of My Approach
+
+A recurring part of my work was connecting information from different parts of a project.
+
+For example:
+
+**Drawing / Specification**
+
+↓
+
+**Site Execution**
+
+↓
+
+**Progress Monitoring**
+
+↓
+
+**Issue Identification**
+
+↓
+
+**Contractor / Consultant Coordination**
+
+↓
+
+**Corrective Action**
+
+↓
+
+**Project Progress**
+
+This is where my architectural background and project-management training worked together.
+
+---
+
+## Key Results & Scale
+
+| Area | Experience |
+|---|---|
+| Project value | **₦50M+ / approximately US$33,000+** |
+| Estate projects | **50+** |
+| Estates coordinated | **Approximately 32** |
+| Site activities coordinated | **Approximately 60%** within assigned PM responsibilities |
+| Role progression | **Technical Consultant → Architect /
