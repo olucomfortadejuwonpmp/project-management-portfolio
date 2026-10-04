@@ -72,19 +72,17 @@ This portfolio presents selected professional experience, project case studies, 
 ### Tirmana Consult Ltd
 
 **Project Manager | Freelance / Project-Based**  
-**2014 – Present**  
+**2025 – Present**  
 **Location:** Abuja, Nigeria
 
-Tirmana Consult Ltd represents an important foundation of my professional career, where I developed practical experience across architectural work, construction, site activities, technical coordination and project delivery.
+Tirmana Consult Ltd is where I built the foundation of my career. My journey with the firm began in 2014, when my work was focused on architectural practice, construction, site activities and technical coordination.
 
-Over time, my responsibilities progressed from technical and site-based work into project planning, stakeholder coordination, problem-solving and project management.
+Working through these areas gave me a practical understanding of how projects develop from drawings and plans into work on site. As my experience grew, I gradually took on more responsibility for planning, coordination, follow-up, problem-solving and project delivery.
+
+This progression from architectural and site experience into project management has shaped the way I approach projects today — with an understanding of both the technical work and the people, activities and decisions needed to keep a project moving.
+
 
 **[→ View Tirmana Project Experience](06-tirmana-consult-project-experience.md)**
-
-
-
-
-  
 
 ---
 
