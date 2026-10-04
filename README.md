@@ -1,8 +1,9 @@
 # Olu Comfort Adejuwon, PMP®
 
-### PMP® Project Manager | Construction | Infrastructure | Real Estate
+### PMP® Project Manager |Project Coordination  | Construction & Real Estate
 
-PMP® Certified Project Manager with 12+ 
+
+PMP® Certified Project Manager 
 ---
 PMP® Certified Project Manager with experience in construction, infrastructure, residential development and real estate. I am good at looking at a project, seeing what could go wrong, and working out what needs to be done before it becomes a bigger problem. My experience includes planning project activities, following up on outstanding work, dealing with changes, checking work against requirements, coordinating contractors and consultants, tracking progress, and keeping project information organized. I enjoy solving problems and helping people involved in a project understand what needs to happen next so that work can continue.
 
