@@ -2,38 +2,39 @@
 
 ### PMP® Project Manager | Construction | Infrastructure | Real Estate
 
-PMP® Certified Project Manager with 12+ years of experience across construction, infrastructure, residential development, and real estate. I bring hands-on experience in project planning, design coordination, construction supervision, scheduling, cost control, stakeholder management, and project delivery. My approach combines practical knowledge of the built environment with structured project management to move projects from planning through execution and completion.
-
+PMP® Certified Project Manager with 12+ 
 ---
+PMP® Certified Project Manager with experience in construction, infrastructure, residential development and real estate. I am good at looking at a project, seeing what could go wrong, and working out what needs to be done before it becomes a bigger problem. My experience includes planning project activities, following up on outstanding work, dealing with changes, checking work against requirements, coordinating contractors and consultants, tracking progress, and keeping project information organized. I enjoy solving problems and helping people involved in a project understand what needs to happen next so that work can continue.
 
 ## About Me
 
-I am a PMP® Certified Project Manager with a background in construction, architectural coordination, infrastructure, and real estate development.
+I am a PMP® Certified Project Manager with experience in construction, infrastructure, residential development and real estate.
 
-Over the course of my career, I have worked across different stages of the project lifecycle, from early planning and design coordination through construction supervision, stakeholder coordination, and project delivery.
+My background in Architectural Technology introduced me to the practical side of projects — understanding drawings, working with site teams, dealing with technical issues and seeing how decisions made during planning affect what happens on site.
 
-My experience has given me a practical understanding of both the technical and management sides of construction projects.
+As my experience grew, I became more involved in planning, coordinating people and activities, following up on work, dealing with changes and making sure issues were addressed before they affected the project.
 
-I am also developing my capabilities in AI and digital project management tools, with a focus on using technology to improve planning, coordination, documentation, and project workflows.
+I am naturally curious about how things work and I tend to ask, “What is causing this?” and “What needs to happen next?” when something is not going as planned. That way of thinking has helped me deal with project issues, work with different people and keep things moving.
+
+I am now building on this experience by learning more about AI and digital project management tools and finding practical ways to use them in everyday project work.
 
 ---
 
 ## Core Expertise
 
-- Project Management
-- Construction Management
-- Project Planning & Scheduling
-- Construction Supervision
-- Design Coordination
-- Cost Management
-- Risk Management
-- Stakeholder Management
-- Residential Development
-- Infrastructure Projects
-- Real Estate Development
-- Project Documentation
-- AI for Project Management
-
+- Project Planning & Coordination
+- Project Scheduling & Progress Tracking
+- Project Management Dashboards
+- Construction & Site Coordination
+- Design & Technical Coordination
+- Contractor & Consultant Coordination
+- Cost & Procurement Management
+- Risk & Issue Identification
+- Stakeholder Communication
+- Project Documentation & Reporting
+- Residential & Real Estate Development
+- Infrastructure & Construction Projects
+- AI & Digital Tools for Project Management
 ---
 
 ## Tools & Technologies
