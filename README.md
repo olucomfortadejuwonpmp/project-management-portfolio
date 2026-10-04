@@ -90,7 +90,7 @@ Over time, my responsibilities progressed from technical and site-based work int
 ### Diamond City Group Ltd
 
 **Architect / Project Manager / Technical Consultant**  
-**june 2022 – january 2025**
+**2022 – 2025**
 
 Experience supporting project planning, technical coordination, construction activities, architectural design, site inspections, drawing reviews, procurement, stakeholder coordination, and project delivery.
 
