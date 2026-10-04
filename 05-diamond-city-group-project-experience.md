@@ -7,47 +7,70 @@
 
 ---
 
-## Project Experience
+## Overview
 
-During my time with Diamond City Group Limited, I worked across residential estate projects, supporting project management, architectural, technical and construction-related activities.
+During my time with Diamond City Group Limited, I worked across residential estate projects in Abuja, combining project management, architectural, technical, and construction-related responsibilities.
 
-My responsibilities included project coordination, site inspections, construction monitoring, technical reviews, procurement, contractor coordination, client resolution and project reporting.
+My work involved coordinating project activities, visiting sites, reviewing drawings, monitoring construction progress, supporting procurement, working with contractors and consultants, resolving project issues, and supporting project delivery.
 
 I was involved in approximately 32 estates and contributed to more than 50 estate projects.
 
 ---
 
+## My Role & Responsibilities
+
+My responsibilities included:
+
+- Project planning and coordination
+- Site inspections and construction monitoring
+- Reviewing drawings against work being carried out on site
+- Coordinating contractors, consultants, engineers, vendors, clients, and site teams
+- Project reporting and documentation
+- Procurement support and supplier comparison
+- Checking supplied products against specifications
+- Supporting project handover and inventory processes
+- Resolving client and design-related issues
+- Supporting estate planning and development
+- Monitoring site activities and outstanding work
+- Promoting site safety expectations
+
+---
+
 ## Site Inspection & Construction Monitoring
 
-I regularly visited project sites to inspect ongoing work and check progress.
+Site visits were an important part of my work at Diamond City Group.
 
-During site inspections, I reviewed:
+During site inspections, I checked the progress of construction and reviewed what was happening on the ground.
+
+I looked at:
 
 - Building construction
 - Drainage works
 - Site development
 - Construction progress
-- Work completed against project requirements
-- Outstanding activities
+- Completed and outstanding activities
+- Work against project requirements
 - Issues requiring attention
+
+These visits helped me identify issues, follow up on outstanding activities, and communicate the required actions to the relevant project team members.
 
 ---
 
-## Reviewing Drawings Against Construction
+## Drawing Review & Site Coordination
 
-One of my responsibilities was checking construction work against the architectural drawings.
+One of my responsibilities was reviewing drawings and checking whether the work being constructed corresponded with the design.
 
-During site visits, I reviewed the drawings and compared them with what was being constructed on the ground.
+During site visits, I compared the drawings with what was being built on the ground.
 
-Where there were differences or issues, I discussed them with the relevant project team members and helped clarify the required work.
+Where differences or issues were identified, I discussed them with the relevant project team members and helped clarify the required work.
 
-This helped maintain alignment between the design and construction.
+This gave me practical experience connecting architectural design with construction execution.
 
 ---
 
 ## Project Coordination
 
-My work also involved coordinating with different people involved in the projects, including:
+I coordinated with different people involved in project delivery, including:
 
 - Contractors
 - Consultants
@@ -57,79 +80,168 @@ My work also involved coordinating with different people involved in the project
 - Management
 - Site teams
 
-I followed up on outstanding work, discussed site issues and helped coordinate actions needed to keep projects moving.
+I followed up on project activities, discussed site issues, coordinated required actions, and supported communication between the different parties involved in the projects.
 
 ---
 
-## Site Inspection Evidence
+## Procurement & Cost Awareness
 
-### Site Inspection 1
+I supported procurement activities by carrying out market research and comparing suppliers and available options.
 
-![Diamond City Group Site Inspection](1119765.jpg)
+Where possible, I identified opportunities to reduce procurement costs while still meeting project requirements.
 
-Site inspection during construction monitoring activities.
-
----
-
-### Site Inspection 2
-
-![Diamond City Group Site Visit](1119761.jpg)
-
-Project site visit and inspection.
+I also checked supplied products against specifications and raised concerns where substitutions or materials did not correspond with the required specifications.
 
 ---
 
-### Site Inspection 3
+## Project Planning & Development
 
-![Diamond City Group Construction Inspection](1106606.jpg)
+My Diamond City experience also included supporting estate planning and development decisions.
 
-Inspection of construction activities on site.
+I worked with project information, house types, site requirements, design considerations, and market needs to support practical project decisions.
 
----
-
-### Drawing Review
-
-![Diamond City Group Drawing Review](1073436.png)
-
-Reviewing project drawings and comparing the design information with construction work on site.
+I also identified land-use inefficiencies and proposed planning improvements where appropriate.
 
 ---
 
-## Other Project Activities
+# Architectural & 3D Design Work
 
-My wider responsibilities at Diamond City Group Limited included:
+As part of my role as an Architect / Project Manager / Technical Consultant, I produced and supported architectural design work for Diamond City projects.
 
-- Project reporting
-- Site activity coordination
-- Contractor allocation and coordination
-- Procurement support
-- Specification checking
-- Client and design issue resolution
-- Estate planning
-- Project handover
-- Workflow improvement
-- Construction monitoring
-- Safety awareness
+The selected designs below show different residential, estate, and infrastructure-related proposals.
 
 ---
 
-## Skills Demonstrated
+## 3-Bedroom Semi-Detached Duplex with BQ
+
+**PROPOSED**  
+**3-BEDROOM SEMI-DETACHED DUPLEX WITH BQ**  
+**Diamond City, Vintage Estate, Lugbe, Abuja**  
+**Plot Size: 300 sqm**
+
+3D redesign developed as part of the architectural design work for the proposed development.
+
+---
+
+## 3-Bedroom Semi-Detached Duplex
+
+**PROPOSED**  
+**3-BEDROOM SEMI-DETACHED DUPLEX**  
+**Diamond City New Castle, Idu, Abuja, Nigeria**  
+**Land Size: 200 sqm**
+
+---
+
+## 4-Bedroom Duplex with Attached BQ
+
+**PROPOSED**  
+**4-BEDROOM DUPLEX WITH ATTACHED BQ**  
+**Diamond City Royale, Lugbe, Abuja, Nigeria**  
+**Land Size: 500 sqm**
+
+3D redesign developed for the proposed residential development.
+
+---
+
+## Diamond City Gatehouse — New Castle
+
+**PROPOSED 3D GATEHOUSE**  
+**Diamond City New Castle, Idu, Abuja**
+
+---
+
+## Diamond City Gatehouse — Bold Touch Estate
+
+**PROPOSED 3D GATEHOUSE**  
+**Diamond City Bold Touch Estate, Lugbe, Abuja**
+
+---
+
+## Diamond City Mall
+
+**PROPOSED DIAMOND CITY MALL**  
+**Lugbe, Abuja**
+
+---
+
+## AEPB Housing Projects — 3-Bedroom Penthouse
+
+**PROPOSED 3-BEDROOM PENTHOUSE**  
+**Diamond City AEPB Housing Projects, Nigeria**  
+**Land Size: 350 sqm**
+
+---
+
+## AEPB Housing Projects — 5-Bedroom Fully Detached Duplex
+
+**PROPOSED 5-BEDROOM FULLY DETACHED DUPLEX**  
+**Diamond City AEPB Housing Projects, Nigeria**  
+**Land Size: 500 sqm**
+
+---
+
+## AEPB Housing Projects — 2-Bedroom Blocks of Flats
+
+**PROPOSED 2-BEDROOM BLOCKS OF FLAT**  
+**Diamond City AEPB Housing Projects, Nigeria**  
+**Land Size: 1000 sqm**
+
+---
+
+## AEPB Housing Projects — 1-Bedroom Blocks of Flats
+
+**PROPOSED 1-BEDROOM BLOCKS OF FLAT**  
+**Diamond City AEPB Housing Projects, Nigeria**  
+**Land Size: 750 sqm**
+
+---
+
+# Project & Marketing Representation
+
+My work also included supporting the presentation and representation of Diamond City projects through project visuals, architectural designs, estate information, and marketing materials.
+
+These materials provide additional visual evidence of the projects and developments I worked on.
+
+---
+
+# Project Evidence
+
+This page will be supported with selected:
+
+- Site inspection photographs
+- Construction progress photographs
+- Drawing review photographs
+- Architectural 3D designs
+- Estate development visuals
+- Project videos
+- Marketing and project presentation materials
+
+---
+
+# Skills Demonstrated
 
 - Project Management
 - Construction Monitoring
 - Site Inspection
+- Architectural Design
+- Drawing Review
 - Technical Coordination
-- Architectural Drawing Review
 - Contractor Coordination
 - Stakeholder Management
-- Procurement
+- Procurement Support
+- Cost Awareness
 - Project Reporting
 - Quality Control
 - Problem Solving
 - Residential Estate Development
+- Project Documentation
 
 ---
 
-## Project Evidence
+## Career Development
 
-Additional photographs and videos will be added to this page to document my project activities and experience with Diamond City Group Limited.
+My experience at Diamond City Group was an important part of my progression from architectural and technical responsibilities into broader project management responsibilities.
+
+The role allowed me to combine my built-environment background with practical project coordination, construction monitoring, stakeholder management, procurement support, and project delivery experience.
+
+This experience continues to support my approach as a PMP® Project Manager working across construction, infrastructure, and real estate projects.
