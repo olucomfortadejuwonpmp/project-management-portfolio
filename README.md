@@ -1,231 +1,90 @@
 # Olu Comfort Adejuwon, PMP®
 
-### PMP® Project Manager |Project Coordination  | Construction & Real Estate
+### Project Manager | Construction | Real Estate | Infrastructure
 
+PMP® Certified Project Manager with experience in project planning, scheduling, construction coordination, stakeholder management, progress tracking, risk identification, and project documentation.
 
-PMP® Certified Project Manager 
----
-PMP® Certified Project Manager with experience in construction, infrastructure, residential development and real estate. I am good at looking at a project, seeing what could go wrong, and working out what needs to be done before it becomes a bigger problem. My experience includes planning project activities, following up on outstanding work, dealing with changes, checking work against requirements, coordinating contractors and consultants, tracking progress, and keeping project information organized. I enjoy solving problems and helping people involved in a project understand what needs to happen next so that work can continue.
-
-## About Me
-
-I am a PMP® Certified Project Manager with experience in construction, infrastructure, residential development and real estate.
-
-My background in Architectural Technology introduced me to the practical side of projects — understanding drawings, working with site teams, dealing with technical issues and seeing how decisions made during planning affect what happens on site.
-
-As my experience grew, I became more involved in planning, coordinating people and activities, following up on work, dealing with changes and making sure issues were addressed before they affected the project.
-
-I am naturally curious about how things work and I tend to ask, “What is causing this?” and “What needs to happen next?” when something is not going as planned. That way of thinking has helped me deal with project issues, work with different people and keep things moving.
-
-I am now building on this experience by learning more about AI and digital project management tools and finding practical ways to use them in everyday project work.
+I work across construction, residential development, infrastructure, and real estate projects, combining practical project coordination with technical understanding.
 
 ---
 
-## Core Expertise
+## Core Skills
 
 - Project Planning & Coordination
 - Project Scheduling & Progress Tracking
-- Project Management Dashboards
 - Construction & Site Coordination
-- Design & Technical Coordination
+- Risk & Issue Management
+- Stakeholder Coordination
 - Contractor & Consultant Coordination
-- Cost & Procurement Management
-- Risk & Issue Identification
-- Stakeholder Communication
+- Cost & Procurement Support
 - Project Documentation & Reporting
 - Residential & Real Estate Development
-- Infrastructure & Construction Projects
-- AI & Digital Tools for Project Management
+- AI & Digital Project Management
+
 ---
 
-## Tools & Technologies
+## Featured Projects
 
-### Project Management
+### 🏗️ Diamond City Group Ltd
+**Project Manager | Architect | Technical Consultant**
+
+Project planning, construction coordination, site monitoring, technical coordination, stakeholder engagement, and residential estate development.
+
+**[View Diamond City Project →](projects/diamond-city/)**
+
+---
+
+### 🏗️ Construmax Construction Ltd
+**Construction / Project Experience**
+
+Construction project coordination, site activities, progress monitoring, and project support.
+
+**[View Construmax Project →](projects/construmax/)**
+
+---
+
+### 🏘️ Police Housing Scheme, Kurudu
+**Technical Consultant**
+
+Technical coordination and project support for a housing development project.
+
+**[View Police Housing Project →](projects/police-housing/)**
+
+---
+
+### 🏢 Tirmana Consult Ltd
+**Freelance Project Manager | Project-Based**
+
+Project planning, coordination, technical support, construction activities, and project delivery.
+
+**[View Tirmana Project →](projects/tirmana-consult/)**
+
+---
+
+## Tools
+
+**Project Management:** Primavera P6, ClickUp  
+**Technical:** AutoCAD  
+**Productivity:** Microsoft Office, Google Workspace  
+**AI & Digital:** ChatGPT, Generative AI Tools
+
+---
+
+## Certification
+
+**PMP® — Project Management Professional**
+
+Additional training includes:
 
 - Primavera P6
-- ClickUp
-
-### Design & Technical
-
-- AutoCAD
-
-### Productivity
-
-- Microsoft Office
-- Google Workspace
-
-### AI & Digital Tools
-
-- ChatGPT
-- Generative AI Tools
-- AI-assisted Project Management Workflows
-
----
-
-# Project Portfolio
-
-This portfolio presents selected professional experience, project case studies, technical work, project-management activities, and supporting project evidence across construction, infrastructure, residential development, and real estate.
-
----
-
-## Professional Experience
-
-### Tirmana Consult Ltd
-
-**Project Manager | Freelance / Project-Based**  
-**2025 – Present**  
-**Location:** Abuja, Nigeria
-
-Tirmana Consult Ltd is where I built the foundation of my career. My journey with the firm began in 2014, when my work was focused on architectural practice, construction, site activities and technical coordination.
-
-Working through these areas gave me a practical understanding of how projects develop from drawings and plans into work on site. As my experience grew, I gradually took on more responsibility for planning, coordination, follow-up, problem-solving and project delivery.
-
-This progression from architectural and site experience into project management has shaped the way I approach projects today — with an understanding of both the technical work and the people, activities and decisions needed to keep a project moving.
-
-
-**[→ View Tirmana Project Experience](06-tirmana-consult-project-experience.md)**
-
----
-
-### Diamond City Group Ltd
-
-**Architect / Project Manager / Technical Consultant**  
-**2022 – 2025**
-
-Experience supporting project planning, technical coordination, construction activities, architectural design, site inspections, drawing reviews, procurement, stakeholder coordination, and project delivery.
-
-#### Project Experience
-
-[View Diamond City Group Project Experience →](05-diamond-city-group-project-experience.md)
-
-The Diamond City project experience page includes selected:
-
-- Site inspection activities
-- Construction monitoring
-- Drawing reviews
-- Architectural design work
-- 3D design proposals
-- Estate development activities
-- Project coordination
-- Project documentation
-- Project videos and visual evidence
-
----
-
-### De-Dons Housing Scheme
-
-**Technical Consultant**  
-**2021 – 2022**
-
-Provided technical support and coordination for housing-related projects.
-
-#### Project Experience
-
-[View Police Housing Scheme, Kurudu →](04-police-housing-scheme-kurudu.md)
-
----
-
-### Construmax Construction Ltd
-
-**Construction / Project Experience**  
-**2020 – 2021**
-
-Experience within the construction environment, supporting project activities and site operations.
-
-#### Project Experience
-
-[View Construmax Construction Project →](03-construmax-construction-project.md)
-
----
-
-# Project Management Experience
-
-My professional experience covers different stages of the project lifecycle, including:
-
-- Project planning
-- Project coordination
-- Construction supervision
-- Site inspection
-- Design coordination
-- Architectural drawing review
-- Project scheduling
-- Procurement support
-- Cost management
-- Contractor coordination
-- Stakeholder management
-- Project documentation
-- Progress monitoring
-- Quality control
-- Risk identification
-- Project handover
-
----
-
-## Project Planning & Scheduling
-
-Examples of project planning and scheduling work using:
-
-- Primavera P6
-- Work Breakdown Structures
-- Project schedules
-- Project milestones
-- Progress monitoring
-- Resource planning
-
----
-
-## Project Management Case Studies
-
-Selected case studies document:
-
-- Project objectives
-- My role and responsibilities
-- Project scope
-- Planning approach
-- Key challenges
-- Actions taken
-- Tools used
-- Deliverables
-- Lessons learned
-- Supporting project evidence
-
----
-
-## Certifications
-
-- **PMP® — Project Management Professional**
-- PMI Project Management Training
+- Agile / Scrum / Kanban
 - Generative AI for Project Management
 - AI in Infrastructure & Construction Projects
-- Primavera P6 Training
-- Agile / Scrum / Kanban Training
-- Project Management & AI-related Professional Development
-
----
-
-## Currently Developing
-
-I am continuing to develop my professional capabilities in:
-
-- Project Management
-- Construction & Infrastructure
-- Project Planning & Scheduling
-- Digital Project Management
-- AI-enabled Project Management
-- Construction Technology
-- Data-driven Project Management
 
 ---
 
 ## Connect With Me
 
-**LinkedIn:**  
-https://www.linkedin.com/in/olu-comfort-pmp%C2%AE-519a36178
+**LinkedIn:** [Olu Comfort Adejuwon, PMP®](https://www.linkedin.com/in/olu-comfort-pmp%C2%AE-519a36178)
 
 **Location:** Abuja, Nigeria
-
----
-
-## Portfolio Note
-
-This repository documents selected professional experience, project-management activities, project case studies, technical work, project evidence, tools, and continuing professional development.
