@@ -1,8 +1,10 @@
 # Tirmana Consult Ltd — Project Experience
 
 **Location:** Abuja, Nigeria  
-**Period:** october 2014 – Present  
+**Period:** October 2014 – Present  
 **Role:** Project Manager | Freelance / Project-Based
+
+---
 
 ## Where My Project Management Journey Began
 
@@ -11,6 +13,8 @@ Tirmana Consult Ltd represents an important foundation of my professional career
 This is where I began developing practical experience across architectural work, construction, site activities, technical coordination and project delivery.
 
 Over time, my responsibilities grew beyond technical and site-based work into project planning, coordination, stakeholder communication, problem-solving and project management.
+
+---
 
 ## Working With Different Project Stakeholders
 
@@ -31,6 +35,8 @@ Depending on the project, I worked with and coordinated:
 
 Working across these different roles taught me how to communicate technical requirements, coordinate activities, follow up on outstanding work, resolve issues and keep different people aligned toward the same project objectives.
 
+---
+
 ## What I Did
 
 My responsibilities across Tirmana projects included:
@@ -50,6 +56,8 @@ My responsibilities across Tirmana projects included:
 - Communicating project requirements and impacts to stakeholders
 - Supporting project documentation and reporting
 
+---
+
 ## Project Scale & Exposure
 
 Through Tirmana, I gained exposure to residential, construction, renovation and technical projects at different stages of delivery.
@@ -58,6 +66,8 @@ I supported project delivery across **10 projects** involving design, planning a
 
 This experience allowed me to develop practical understanding of project planning, construction coordination, stakeholder management, risk identification, change management and project delivery.
 
+---
+
 ## My Progression
 
 My responsibilities developed progressively over time.
@@ -65,6 +75,8 @@ My responsibilities developed progressively over time.
 I moved from hands-on technical and site responsibilities into taking greater ownership of planning, stakeholder communication, issue resolution, site coordination and project-delivery activities.
 
 This progression became an important part of my transition into project management.
+
+---
 
 ## Selected Project Experience
 
@@ -76,7 +88,9 @@ The projects below represent selected examples of my experience with Tirmana Con
 
 A student hostel construction project that gave me early hands-on exposure to construction monitoring, architectural coordination, site activities, workmanship and project documentation.
 
-**[→ View Project](01-project-management-experience.md)**
+**[→ View Project](../../archive/old-project-files/01-project-management-experience.md)**
+
+---
 
 ### Koko Boys Secondary School
 
@@ -84,7 +98,9 @@ A student hostel construction project that gave me early hands-on exposure to co
 
 A renovation project that expanded my experience in construction coordination, technical requirements, stakeholder communication and project execution.
 
-**[→ View Project](02-koko-boys-secondary-school.md)**
+**[→ View Project](../../archive/old-project-files/02-koko-boys-secondary-school.md)**
+
+---
 
 ### Other Tirmana Project Experience
 
@@ -93,6 +109,8 @@ My Tirmana experience also included additional residential, construction, archit
 These projects gave me exposure to different project environments, stakeholders, construction activities and delivery challenges.
 
 Additional projects will be documented in this portfolio as the supporting project information and evidence are organized.
+
+---
 
 ## What Tirmana Built in Me
 
