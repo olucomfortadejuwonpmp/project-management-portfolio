@@ -5,13 +5,17 @@
 **Organization:** Tirmana Consult Ltd  
 **Role:** Architect on Site / Clerk of Works
 
+---
+
 ## Project Overview
 
 The Nigeria Air Force Institute of Technology (AFIT) Student Hostel Project was one of my early construction experiences with Tirmana Consult Ltd.
 
 The project comprised a **20-room student hostel arranged over two floors, with 10 rooms on the first floor and 10 rooms on the second floor.**
 
-This project marked an important stage in my early professional development, giving me practical experience in construction delivery, site operations, architectural coordination, and project documentation.
+This project marked an important stage in my early professional development, giving me practical experience in construction delivery, site operations, architectural coordination and project documentation.
+
+---
 
 ## My Role
 
@@ -29,6 +33,8 @@ My responsibilities included:
 - Assisting with project documentation
 - Observing workmanship and construction quality
 
+---
+
 ## Project Experience
 
 Working on site gave me practical exposure to the relationship between architectural design and construction execution.
@@ -44,24 +50,25 @@ The project strengthened my understanding of:
 - Construction documentation
 - Communication within a project team
 
+---
 
 ## Project Photos
 
 ### Site and Construction Progress
 
-![Foundation and reinforcement works](file_00000000d5fc8243a44de0152cb026b7.jpg)
+![Foundation and reinforcement works](../../assets/media/file_00000000d5fc8243a44de0152cb026b7.jpg)
 
-![Hostel construction progress](file_00000000222881f4a771ea7ef496ddfe.jpg)
+![Hostel construction progress](../../assets/media/file_00000000222881f4a771ea7ef496ddfe.jpg)
 
-![Completed AFIT Student Hostel](file_00000000180c8210a8dc945d5bc42227.jpg)
+![Completed AFIT Student Hostel](../../assets/media/file_00000000180c8210a8dc945d5bc42227.jpg)
 
-
+---
 
 ## Career Development
 
 This project represents an early stage of my professional journey in construction.
 
-My career developed progressively from **architectural and site-based responsibilities** into architectural consulting, technical consulting, construction coordination, and eventually project management.
+My career developed progressively from **architectural and site-based responsibilities** into architectural consulting, technical consulting, construction coordination and eventually project management.
 
 The hands-on construction experience gained at this stage continues to inform my approach to project management today.
 
