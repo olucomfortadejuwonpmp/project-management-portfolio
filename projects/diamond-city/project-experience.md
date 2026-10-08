@@ -129,53 +129,53 @@ I also contributed to the development and review of architectural designs for di
 
 ## 3D Architectural Project Visuals
 
-![](04bb54a0-2e38-4ba4-b054-b430bcec9423_20261004_003352_0000.png)
+![](../../assets/media/04bb54a0-2e38-4ba4-b054-b430bcec9423_20261004_003352_0000.png)
 
-![](16684c19-2a47-43a0-962d-b5bf58106bfc_20261004_001541_0000.png)
+![](../../assets/media/16684c19-2a47-43a0-962d-b5bf58106bfc_20261004_001541_0000.png)
 
-![](1c23cac9-4345-4d34-855d-be9a4141dd12_20261004_003602_0000.png)
+![](../../assets/media/1c23cac9-4345-4d34-855d-be9a4141dd12_20261004_003602_0000.png)
 
-![](4191b587-9ca1-4508-b7b7-5514b214b4ad_20261004_002502_0000.png)
+![](../../assets/media/4191b587-9ca1-4508-b7b7-5514b214b4ad_20261004_002502_0000.png)
 
-![](4602f504-325d-4377-9a90-710a69ebe4dd_20261004_003848_0000.png)
+![](../../assets/media/4602f504-325d-4377-9a90-710a69ebe4dd_20261004_003848_0000.png)
 
-![](73f0ef7d-9953-4bf5-8dbe-02bc47b23ebe_20261004_002956_0000.png)
+![](../../assets/media/73f0ef7d-9953-4bf5-8dbe-02bc47b23ebe_20261004_002956_0000.png)
 
-![](7d5f4812-99e0-4dca-b03d-0fa024f5a8b0_20261004_002105_0000.png)
+![](../../assets/media/7d5f4812-99e0-4dca-b03d-0fa024f5a8b0_20261004_002105_0000.png)
 
-![](ce24180b-a8d0-44eb-8112-bfb3f880ce88_20261004_003156_0000.png)
+![](../../assets/media/ce24180b-a8d0-44eb-8112-bfb3f880ce88_20261004_003156_0000.png)
 
-![](e82b3e3c-a0fc-41a0-94a0-b5b9e7c5d1e9_20261004_002709_0000.png)
+![](../../assets/media/e82b3e3c-a0fc-41a0-94a0-b5b9e7c5d1e9_20261004_002709_0000.png)
 
-![](ee5ee2f7-2680-44c4-9400-a78e1ed27650_20261004_000845_0000.png)
+![](../../assets/media/ee5ee2f7-2680-44c4-9400-a78e1ed27650_20261004_000845_0000.png)
 
 ---
 
 ## Site Project Evidence
 
-![](IMG-20261003-WA0001.jpg)
+![](../../assets/media/IMG-20261003-WA0001.jpg)
 
-![](IMG-20261003-WA0030.jpg)
-
+![](../../assets/media/IMG-20261003-WA0030.jpg)
 
 ---
 
 ## Project Videos
 
-[Watch Diamond City Project Video 1](VID-20251018-WA0001.mp4)
+[Watch Diamond City Project Video 1](../../assets/media/VID-20251018-WA0001.mp4)
 
-[Watch Diamond City Project Video 2](VID-20261004-WA0001.mp4)
+[Watch Diamond City Project Video 2](../../assets/media/VID-20261004-WA0001.mp4)
 
-[Watch Diamond City Project Video 3](VID-20261004-WA0002.mp4)
+[Watch Diamond City Project Video 3](../../assets/media/VID-20261004-WA0002.mp4)
 
-[Watch Diamond City Project Video 4](VID-20261004-WA0012.mp4)
+[Watch Diamond City Project Video 4](../../assets/media/VID-20261004-WA0012.mp4)
 
 ---
+
 ## Project Representation
 
-![](c63310c7-2eb6-4aae-bf47-8497f3062ca8_20261004_033503_0000.png)
+![](../../assets/media/c63310c7-2eb6-4aae-bf47-8497f3062ca8_20261004_033503_0000.png)
 
-![](fe92cf59-b63d-4f19-9d50-706f21151e77_20261004_033357_0000.png)
+![](../../assets/media/fe92cf59-b63d-4f19-9d50-706f21151e77_20261004_033357_0000.png)
 
 ---
 
