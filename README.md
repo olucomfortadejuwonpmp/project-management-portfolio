@@ -43,12 +43,12 @@ Construction project coordination, site activities, progress monitoring, and pro
 
 ---
 
-### 🏘️ Police Housing Scheme, Kurudu
-**Technical Consultant**
+### 🏘️ De-Dons Housing Scheme
+**Technical Consultant | 2021–2022**
 
-Technical coordination and project support for a housing development project.
+Remote technical consulting support for a housing development project.
 
-**[View Police Housing Project →](projects/police-housing/)**
+**[View De-Dons Project →](projects/de-dons/)**
 
 ---
 
